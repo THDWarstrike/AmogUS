@@ -1,0 +1,74 @@
+.jumbotron{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Q7FAixcQqMDGxNyRBXBI8P4nrBnpasDfiA&usqp=CAU");
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    padding: fill;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -10px;
+}
+#mainBody{
+    display: grid;
+    margin-left: -9px;
+    margin-right: -9px;
+}
+#sectionA{
+    background-color: blueviolet;
+}
+#sectionB{
+    background-color: crimson;
+}
+#sectionC{
+    background-color: black;
+}
+#sectionD{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.header1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.header2{
+    font-size: 50px;
+    text-align: center;
+    color:white;
+}
+.header3{
+    font-size: 50px;
+    text-align: center;
+    color:white;
+}
+.list{
+    color: white;
+}
+.h3-1{
+    text-align: center;
+}
+.h3-2{
+    text-align: center;
+}
+.img1{
+    height: 150px;
+    width: auto;
+}
+.img2{
+    height: 150px;
+    width: auto;
+    grid-template-rows: auto;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    margin-left: -9px;
+    margin-right: -9px;
+    align-content:center;
+    grid-row-gap: 0px;
+}

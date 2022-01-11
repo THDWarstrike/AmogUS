@@ -14,6 +14,9 @@ button {
     cursor: pointer;
   }
 
+.button0{
+    background-color: black;
+} /*Black */
 .button1  {
     background-color: #FFA500;
 } /* Orange */
@@ -27,7 +30,7 @@ button {
     background-color: tomato;
 }
 h3{
-    color: goldenrod;
+    color: whitesmoke;
     text-align: center;
 
 }
@@ -36,17 +39,26 @@ ul{
 }
 body, #Pain{
     background-image: url("../images/ninja.jpg");
-
+    background-size: cover;
 }
 body, #leaf{
     background-image: url("../images/wp1937034.webp");
+    background-size: cover;
 }
 body, #Madara{
     background-image: url("../images/madara-ucihha-wallpaper-naruto.jpg");
+    background-size: cover;
 }
 body, #Garra{
     background-image: url("../images/d6gg3c9-374a9f7e-ea17-4d61-bbea-5f10009b24db.jpg");
+    background-size: cover;
 }
 body, #Jiriyah{
     background-image: url("../images/Jiraiya_perfil.PNG-1.jpg");
+    background-size: cover;
+}
+#h3{
+    color: green;
+    text-align: center;
+    vertical-align: bottom;
 }
